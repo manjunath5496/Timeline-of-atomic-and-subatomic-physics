@@ -3,7 +3,7 @@
 <h2><span id="Early_beginnings" class="mw-headline">Early beginnings</span></h2>
 <ul>
 <li>In 6th century BCE, Acharya&nbsp;<a title="Kanada (philosopher)" href="https://en.wikipedia.org/wiki/Kanada_(philosopher)">Kanada</a>&nbsp;proposed that all matter must consist of indivisible particles and called them "anu". He proposes examples like ripening of fruit as the change in the number and types of atoms to create newer units.</li>
-<li>430 BCE<sup id="cite_ref-Teresi_1-0" class="reference"><a href="https://en.wikipedia.org/wiki/Timeline_of_atomic_and_subatomic_physics#cite_note-Teresi-1">[1]</a></sup>&nbsp;<a title="Democritus" href="https://en.wikipedia.org/wiki/Democritus">Democritus</a>&nbsp;speculates about fundamental indivisible particles&mdash;calls them "<a title="Atom" href="https://en.wikipedia.org/wiki/Atom">atoms</a>"</li>
+<li>430 BCE&nbsp;<a title="Democritus" href="https://en.wikipedia.org/wiki/Democritus">Democritus</a>&nbsp;speculates about fundamental indivisible particles&mdash;calls them "<a title="Atom" href="https://en.wikipedia.org/wiki/Atom">atoms</a>"</li>
 </ul>
 <h2><span id="The_beginning_of_chemistry" class="mw-headline">The beginning of chemistry</span></h2>
 <ul>
